@@ -1,0 +1,3 @@
+SKU1;Libro1;150
+SKU2;Libro2;100
+SKU3;Libro3;200
